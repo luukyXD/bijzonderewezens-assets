@@ -1,0 +1,27 @@
+
+#s-m-t-tooltip{
+	max-width:400px;
+	top:0;
+	z-index:9999 !important;
+	pointer-events: none;
+	margin:15px;
+	position:absolute;
+	padding:5px 10px;
+	background:#0f0e31; 
+	background:#0f0e3180;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	-moz-box-shadow:-1px -1px 2px 0px rgba(255,255,255,0.5);
+	-webkit-box-shadow:-1px -1px 2px 0px rgba(255,255,255,0.5);
+	box-shadow:-1px -1px 2px 0px rgba(255,255,255,0.5);
+
+	font-family:"Fraunces","Hanyi";
+	font-size:0.9em;
+	line-height:150%;
+	color:#fff;
+	filter: var(--dropshadow);
+}
+#s-m-t-tooltip a{
+	color:white;
+}
