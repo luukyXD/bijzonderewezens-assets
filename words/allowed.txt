@@ -6,6 +6,7 @@ mummy
 shakt
 plume
 azurn
+shrek
 aiyee
 rewth
 linum
